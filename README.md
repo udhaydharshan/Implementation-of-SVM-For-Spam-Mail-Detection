@@ -54,6 +54,7 @@ accuracy
 ```
 
 ## Output:
+<img width="810" height="169" alt="image" src="https://github.com/user-attachments/assets/91ecc09b-9ec7-4e62-81ce-203ecf1ea51c" />
 
 
 
